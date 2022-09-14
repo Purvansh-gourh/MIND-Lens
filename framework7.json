@@ -1,0 +1,19 @@
+{
+  "cwd": "F:\\study material\\webPractice\\Hackathon -DB\\MIND Lens",
+  "type": [
+    "pwa"
+  ],
+  "name": "MIND Lens",
+  "framework": "react",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": false,
+    "fillBars": false
+  },
+  "customBuild": false
+}
